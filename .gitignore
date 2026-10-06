@@ -1,0 +1,39 @@
+# SQL Server database files and backups
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.trn
+
+# SSMS & Visual Studio user files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.dbmdl
+
+# Python runtime and environment
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+venv/
+env/
+ENV/
+tempCodeRunnerFile.py
+
+# Editor and IDE configurations
+.vscode/
+*.code-workspace
+.idea/
+
+# Operating System artifacts
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Microsoft Office temporary lock files
+~$*.docx
